@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Curriculum Vitae
+layout: post
+title: Curriculum Vitae\
 ---
 The [PDF version of the my full CV](https://wangchenchih.github.io/ChenChih_website/CV/CV.pdf) can be browsed via the link. 
 
